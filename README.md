@@ -15,4 +15,4 @@ A fully functional Chess game implemented in Java, focusing on **Object-Oriented
 ## 📂 How to Run
 1. Clone the repository.
 2. Compile the source files in the `src` folder.
-3. Run the main class to start the game.
+3. Run the Main class to start the game.
