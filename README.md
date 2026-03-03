@@ -4,7 +4,7 @@ A fully functional Chess game implemented in Java, focusing on **Object-Oriented
 
 ## 🚀 Key Features
 * **Full Move Validation:** Implemented specific movement rules for all pieces (Pawn, Rook, Knight, Bishop, Queen, King).
-* **Game Logic:** Support for special moves like Castling, En Passant, and Pawn Promotion.
+* **Game Logic:** Support for special moves like Castling, and Pawn Promotion.
 * **State Detection:** Automatic detection of Check, Checkmate, and Stalemate conditions.
 * **OOP Architecture:** Utilized Inheritance, Polymorphism, and Encapsulation to create a modular and maintainable codebase.
 
